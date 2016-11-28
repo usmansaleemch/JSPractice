@@ -175,12 +175,6 @@ function rand57(){
     return (5 + (rand5()/5) * 2);
 }
 console.log(rand57());
-console.log(rand57());
-console.log(rand57());
-console.log(rand57());
-console.log(rand57());
-console.log(rand57());
-console.log(rand57());
 
 // factorial in loop
 
